@@ -5,7 +5,7 @@
 &nbsp; <a href="mailto:michalcz97@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-<h2><img src="https://github.com/deSp44/deSp44/blob/master/Assets/Handshake.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/deSp44/deSp44/blob/master/Assets/Earth.gif" width="24px"></h2>
+<h2><img src="https://github.com/deSp44/deSp44/blob/main/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/deSp44/deSp44/blob/main/Assets/Earth.gif" width="24px"></h2>
 
 <img align="right" alt="PNG" src="https://user-images.githubusercontent.com/56117577/125845252-8d45c7fb-f377-4a1d-bba9-9c4dade54e80.png" height="376" width="293" />
 
