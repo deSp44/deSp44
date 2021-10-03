@@ -15,7 +15,7 @@
 - 🤔 &nbsp; Interested in .NET technology and everything related to it.
 - 👨🏽‍💻 &nbsp; I’m currently working on improving my programming skills.
 - 🌱 &nbsp; I'm currently learning everything about ASP.NET Core and creating web application.
-- ⚡ &nbsp; I just finished creating a website for storing recipes. Check it out for yourself!
+- ⚡ &nbsp; I just finished creating a website for storing recipes. <a href="https://smart-recipes.pl">Check it out for yourself!</a>
 - 💼 &nbsp; I'm looking for a job that will help me develop my skills and give me more experience.
 - 🎓 &nbsp; Studying Computer Science in Lublin at the WSEI university.
 
